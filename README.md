@@ -60,7 +60,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48" height="48" alt="Postman" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="48" height="48" alt="Qt6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="48" height="48" alt="Eclipse" />
-  <img src="https://cdn.simpleicons.org/bloodorange/FB4C00" width="48" height="48" alt="Dev-C++" />
+  <img src="https://img.shields.io/badge/Dev--C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" width="120" alt="Dev-C++" />
   <img src="https://cdn.simpleicons.org/xampp/F37623" width="48" height="48" alt="XAMPP" />
 </div>
 
