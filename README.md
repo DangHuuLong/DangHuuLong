@@ -50,7 +50,7 @@
 <div align="flex-start">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="SQL Server" />
-  <img src="https://cdn.simpleicons.org/entityframeworkcore/512BD4" width="48" height="48" alt="Entity Framework Core" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/entityframeworkcore/entityframeworkcore-original.svg" width="48" height="48" alt="Entity Framework Core"/>
 </div>
 
 ### 🎨 Design & Prototyping
@@ -79,7 +79,7 @@
   <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="48" height="48" alt="Cisco" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="48" height="48" alt="Ubuntu" />
-  <img src="https://cdn.simpleicons.org/powershell/5391FE" width="48" height="48" alt="PowerShell" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" width="48" height="48" alt="PowerShell"/>    
 </div>
 
 ### 📱 Mobile Development
