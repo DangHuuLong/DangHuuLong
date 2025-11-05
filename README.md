@@ -36,6 +36,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" alt="PHP" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" width="48" height="48" alt="Servlet/JSP" />
+  <img src="https://cdn.simpleicons.org/opengl/5586A4" width="48" height="48" alt="OpenGL" />
 </div>
 
 ### 🗄️ Database
@@ -53,10 +54,14 @@
 <div align="flex-start">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="48" height="48" alt="Git Bash" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="48" height="48" alt="Visual Studio" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48" height="48" alt="Postman" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="48" height="48" alt="Qt6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="48" height="48" alt="Eclipse" />
+  <img src="https://cdn.simpleicons.org/bloodorange/FB4C00" width="48" height="48" alt="Dev-C++" />
+  <img src="https://cdn.simpleicons.org/xampp/F37623" width="48" height="48" alt="XAMPP" />
 </div>
 
 ### ☁️ DevOps & System
