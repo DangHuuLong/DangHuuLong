@@ -44,6 +44,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="48" height="48" alt="Apache" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" width="48" height="48" alt="Servlet/JSP" />
   <img src="https://cdn.simpleicons.org/opengl/5586A4" width="48" height="48" alt="OpenGL" />
+  <img src="https://cdn.simpleicons.org/prisma/2D3748" width="48" height="48" alt="Prisma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="48" height="48" alt="Supabase" />
 </div>
 
 ### 🗄️ Database
@@ -70,6 +72,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="48" height="48" alt="Eclipse" />
   <img src="https://cdn.simpleicons.org/xampp/F37623" width="48" height="48" alt="XAMPP" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" width="48" height="48" alt="NetBeans" />
+  <img src="https://cdn.simpleicons.org/swagger/85EA2D" width="48" height="48" alt="Swagger" />
 </div>
 
 ### ☁️ DevOps & System
@@ -80,6 +83,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="48" height="48" alt="Ubuntu" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" width="48" height="48" alt="PowerShell"/>    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
 </div>
 
 ### 📱 Mobile Development
