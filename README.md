@@ -9,7 +9,7 @@
 ## 🧠 About Me
 
 🌱 Currently learning and building projects with ReactJS, Node.js, and .NET  
-💬 Interested in full-stack development, software architecture, and database systems  
+💬 Interested in full-stack development, software architecture, and database systems, AI
 🧩 Exploring mobile development with Flutter and Dart  
 🎨 Also improving UI/UX design using Figma  
 📫 Reach me at **danghuulong394@gmail.com**
