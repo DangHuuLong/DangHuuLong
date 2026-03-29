@@ -9,8 +9,8 @@
 ## 🧠 About Me
 
 🌱 Currently learning and building projects with ReactJS, Node.js, and .NET  
-💬 Interested in full-stack development, software architecture, and database systems, AI
-🧩 Exploring mobile development with Flutter and Dart  
+💬 Interested in full-stack development, software architecture, database systems, AI  
+🧩 Exploring mobile development with Flutter, Dart, React Native, and Expo  
 🎨 Also improving UI/UX design using Figma  
 📫 Reach me at **danghuulong394@gmail.com**
 
@@ -46,6 +46,7 @@
   <img src="https://cdn.simpleicons.org/opengl/5586A4" width="48" height="48" alt="OpenGL" />
   <img src="https://cdn.simpleicons.org/prisma/2D3748" width="48" height="48" alt="Prisma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="48" height="48" alt="Supabase" />
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" width="48" height="48" alt="Firebase" />
 </div>
 
 ### 🗄️ Database
@@ -73,17 +74,20 @@
   <img src="https://cdn.simpleicons.org/xampp/F37623" width="48" height="48" alt="XAMPP" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" width="48" height="48" alt="NetBeans" />
   <img src="https://cdn.simpleicons.org/swagger/85EA2D" width="48" height="48" alt="Swagger" />
+  <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" width="48" height="48" alt="Google Colab" />
 </div>
 
-### ☁️ DevOps & System
+### ☁️ DevOps & Deployment
 <div align="flex-start">
+  <img src="https://cdn.simpleicons.org/vercel/000000" width="48" height="48" alt="Vercel" />
+  <img src="https://cdn.simpleicons.org/render/46E3B7" width="48" height="48" alt="Render" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="48" height="48" alt="Ubuntu" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" width="48" height="48" alt="PowerShell"/>
   <img src="https://cdn.simpleicons.org/vmware/607078" width="48" height="48" alt="VMware" />
   <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="48" height="48" alt="Wireshark" />
   <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="48" height="48" alt="Cisco" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="48" height="48" alt="Ubuntu" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" width="48" height="48" alt="PowerShell"/>    
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
 </div>
 
 ### 📱 Mobile Development
@@ -91,13 +95,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48" height="48" alt="Flutter" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="48" height="48" alt="Dart" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="48" height="48" alt="Android Studio" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" width="48" height="48" alt="React Native" />
+  <img src="https://cdn.simpleicons.org/expo/000020" width="48" height="48" alt="Expo" />
 </div>
-
----
-
-## 📊 GitHub Stats  
-![Long's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DangHuuLong&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DangHuuLong&layout=compact&theme=tokyonight)  
 
 ---
 
@@ -119,25 +119,28 @@
 
 ---
 
-## 🏆 Competitive Programming  
+## 🏆 Competitive Programming
 - Codeforces handle: **Tansinhvienbkk23**  
 - Highest rating: **1147**
 
 ---
 
-## 🎯 Current Focus  
+## 🎯 Current Focus
 - Building full-stack applications with ReactJS and Node.js  
 - Developing backend APIs and databases with .NET and SQL Server  
-- Exploring mobile app development with Flutter  
+- Exploring mobile app development with Flutter, React Native, and Expo  
+- Learning Firebase for modern app development  
+- Deploying projects with Vercel and Render  
 - Strengthening knowledge in computer networks and virtualization  
 - Improving UI/UX design and deployment workflows  
 
 ---
 
-## ⚡ Fun Facts  
+## ⚡ Fun Facts
 - 🎮 I enjoy learning by building real-world projects  
 - ☕ Powered by coffee and curiosity  
 - 💡 Always open to collaboration and learning new tech  
 
 ---
+
 ⭐️ *Thanks for visiting my profile!*
