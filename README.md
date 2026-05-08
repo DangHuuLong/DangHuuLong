@@ -1,100 +1,97 @@
-# 👋 Hi there, I'm Đặng Hữu Long (Dang Huu Long)
+# Hi, I'm Dang Huu Long 👋
 
-🎓 **Information Technology Student** at *Da Nang University of Science and Technology (DUT)*  
-💻 **Full-Stack Developer** | ReactJS • .NET • Node.js  
-🚀 Passionate about building modern, scalable, and user-friendly web applications
+I'm a third-year Information Technology student at the University of Science and Technology — The University of Danang, with a strong interest in full-stack software development and mobile application development.
 
----
+I enjoy building practical web and mobile applications with clean user interfaces, clear application flows, and scalable backend systems. I have hands-on experience with React, React Native, Expo, Node.js, Express.js, NestJS, FastAPI, PostgreSQL, MongoDB, Prisma, and REST APIs through personal projects and internship experience.
 
-## 🧠 About Me
-
-🌱 Currently learning and building projects with ReactJS, Node.js, and .NET  
-💬 Interested in full-stack development, software architecture, database systems, AI  
-🧩 Exploring mobile development with Flutter, Dart, React Native, and Expo  
-🎨 Also improving UI/UX design using Figma  
-📫 Reach me at **danghuulong394@gmail.com**
+Currently, I'm looking for opportunities to gain real-world software engineering experience, improve my technical skills, and contribute to meaningful software products.
 
 ---
 
-## 🛠 Tech Stack
+## About Me
 
-### 🌐 Frontend
+- 🎓 Information Technology student at DUT — University of Danang
+- 💻 Interested in Full-stack Development, Mobile Development, Backend APIs, and AI-powered applications
+- 📱 Mobile App Developer Intern with hands-on experience in Flutter, REST APIs, authentication, state management, image upload, and local storage
+- 🚀 Experienced in building web and mobile applications from UI implementation to backend integration
+- 🌱 Currently improving my skills in backend architecture, system design, AI integration, and production-ready application development
+
+---
+
+## Tech Stack
+
+### Frontend & Mobile
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,redux,html,css,tailwind,js,ts,vite,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,dart,ts,js,tailwind,bootstrap,vite" />
 </p>
 
-### ⚙️ Backend
+### Backend
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,npm,wordpress,express,dotnet,cpp,cs,java,php,prisma" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,dotnet,python,cs,java,cpp" />
 </p>
 
-### 🗄️ Database
+### Database & ORM
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,firebase,supabase" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,prisma,supabase,firebase" />
 </p>
 
-### 🎨 Design & Prototyping
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=figma" />
-</p>
+### Tools & Deployment
 
-### 🧰 Development Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,bash,vscode,visualstudio,postman,qt,eclipse,xampp,netbeans,swagger" />
-</p>
-
-### ☁️ DevOps & Deployment
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vercel,docker,linux,ubuntu,powershell,vmware" />
-</p>
-
-### 📱 Mobile Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,reactnative,expo" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,vercel,linux,vscode,visualstudio" />
 </p>
 
 ---
 
-## 🌐 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/h%E1%BB%AFu-long-%C4%91%E1%BA%B7ng-387226374/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/DangHuuLong">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://codeforces.com/profile/Tansinhvienbkk23">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
-  <a href="mailto:danghuulong394@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+## Experience
+
+### Mobile App Developer Intern
+
+**Sep 2025 — Present**
+
+- Developed Flutter mobile applications with REST API integration
+- Implemented authentication, state management, image upload, and local storage
+- Worked with Flutter, BLoC/Cubit, Dio, Node.js, Express.js, PostgreSQL, Firebase, and third-party AI/API services
+- Built user-focused features and improved mobile application flows
 
 ---
 
-## 🏆 Competitive Programming
-- Codeforces handle: **Tansinhvienbkk23**  
+## Education
+
+**University of Science and Technology — The University of Danang**  
+Bachelor's Degree in Information Technology  
+**2023 — Present**  
+GPA: **3.61 / 4.0**
+
+---
+
+## Competitive Programming
+
+- Codeforces: **Tansinhvienbkk23**
 - Highest rating: **1147**
 
 ---
 
-## 🎯 Current Focus
-- Building full-stack applications with ReactJS and Node.js  
-- Developing backend APIs and databases with .NET and SQL Server  
-- Exploring mobile app development with Flutter, React Native, and Expo  
-- Learning Firebase for modern app development  
-- Deploying projects with Vercel and Render  
-- Strengthening knowledge in computer networks and virtualization  
-- Improving UI/UX design and deployment workflows  
+## Connect with Me
+
+<p align="left">
+  <a href="mailto:danghuulong394@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/DangHuuLong">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/h%E1%BB%AFu-long-%C4%91%E1%BA%B7ng-387226374/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/Tansinhvienbkk23">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## ⚡ Fun Facts
-- 🎮 I enjoy learning by building real-world projects  
-- ☕ Powered by coffee and curiosity  
-- 💡 Always open to collaboration and learning new tech  
-
----
-
-⭐️ *Thanks for visiting my profile!*
+Thanks for visiting my profile.
