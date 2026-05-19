@@ -46,19 +46,6 @@ Currently, I'm looking for opportunities to gain real-world software engineering
 
 ---
 
-## Experience
-
-### Mobile App Developer Intern
-
-**Sep 2025 — Present**
-
-- Developed Flutter mobile applications with REST API integration
-- Implemented authentication, state management, image upload, and local storage
-- Worked with Flutter, BLoC/Cubit, Dio, Node.js, Express.js, PostgreSQL, Firebase, and third-party AI/API services
-- Built user-focused features and improved mobile application flows
-
----
-
 ## Education
 
 **University of Science and Technology — The University of Danang**  
