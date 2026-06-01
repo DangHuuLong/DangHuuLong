@@ -6,7 +6,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:03001e,25:7303c0,65:ec38bc,100:03001e&height=260&section=header&text=Đặng%20Hữu%20Long&fontSize=60&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=✦%20%20Full-Stack%20Developer%20%20·%20%20Mobile%20Developer%20%20·%20%20IT%20Student%20%20✦&descSize=16&descAlignY=62&descAlign=50&descColor=e0c3fc&animation=fadeIn&stroke=7303c0&strokeWidth=1" />
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&pause=1100&color=C084FC&background=00000000&center=true&vCenter=true&random=false&width=720&height=55&lines=🌌+Exploring+the+universe+of+code...;🔥+152-Day+Streak+%7C+⭐+1%2C991+Contributions;🚀+React+·+Flutter+·+NestJS+·+FastAPI+·+Next.js;🤖+Building+AI-Powered+Real-World+Apps;🌟+Open+to+Internships+%26+Junior+Dev+Roles!" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&pause=1100&color=C084FC&background=00000000&center=true&vCenter=true&random=false&width=720&height=55&lines=🌌+Exploring+the+universe+of+code...;🔥+160-Day+Streak+%7C+⭐+2%2C159+Contributions;🚀+React+·+Flutter+·+NestJS+·+FastAPI+·+Next.js;🤖+Building+AI-Powered+Real-World+Apps;🌟+Open+to+Internships+%26+Junior+Dev+Roles!" />
 
 <br/>
 
@@ -53,7 +53,7 @@
 ✦ learning  : System Design · AI Integration · Backend Architecture
 ✦ seeking   : Internship / Junior Full-Stack or Mobile Dev
 
-✦ streak    : 🔥 152 days  |  stars : ⭐ 1,991 contributions
+✦ streak    : 🔥 160 days  |  stars : ⭐ 2,159 contributions
 ✦ hobbies   : Competitive Programming on Codeforces ⚡
 ```
 
@@ -153,13 +153,16 @@ Multi-role food management with Customer, Cashier & Admin interfaces, full auth 
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=DangHuuLong&show_icons=true&hide_border=true&count_private=true&bg_color=03001e&title_color=c084fc&icon_color=ec38bc&text_color=e0c3fc&ring_color=7303c0&border_radius=16&include_all_commits=true" />
+<!-- Stats Card — dùng anuraghazra instance deploy riêng, ổn định hơn -->
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=DangHuuLong&show_icons=true&hide_border=true&count_private=true&bg_color=03001e&title_color=c084fc&icon_color=ec38bc&text_color=e0c3fc&ring_color=7303c0&border_radius=16&include_all_commits=true&cache_seconds=86400&rank_icon=github" />
 &nbsp;
-<img height="180" src="https://streak-stats.demolab.com?user=DangHuuLong&hide_border=true&background=03001e&stroke=7303c0&ring=c084fc&fire=ec38bc&currStreakLabel=c084fc&sideLabels=e0c3fc&dates=a78bfa&currStreakNum=ec38bc&sideNums=c084fc&border_radius=16" />
+<!-- Streak Stats — dùng streak-stats.demolab.com với theme đẹp -->
+<img height="180" src="https://streak-stats.demolab.com?user=DangHuuLong&theme=transparent&hide_border=true&background=03001e&stroke=7303c0&ring=c084fc&fire=ec38bc&currStreakLabel=c084fc&sideLabels=e0c3fc&dates=a78bfa&currStreakNum=ec38bc&sideNums=c084fc&border_radius=16&card_width=495&exclude_days=Sun" />
 
 <br/><br/>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DangHuuLong&layout=compact&hide_border=true&bg_color=03001e&title_color=c084fc&text_color=e0c3fc&border_radius=16&langs_count=8&card_width=380" />
+<!-- Top Langs — layout donut đẹp hơn compact -->
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DangHuuLong&layout=donut&hide_border=true&bg_color=03001e&title_color=c084fc&text_color=e0c3fc&border_radius=16&langs_count=8&cache_seconds=86400" />
 
 </div>
 
@@ -169,7 +172,8 @@ Multi-role food management with Customer, Cashier & Admin interfaces, full auth 
 
 <div align="center">
 
-<img width="97%" src="https://github-profile-trophy.vercel.app/?username=DangHuuLong&theme=onestar&no-frame=true&column=7&margin-w=10&margin-h=4" />
+<!-- Dùng github-trophies instance dự phòng thay cho github-profile-trophy -->
+<img width="97%" src="https://github-trophies.vercel.app/?username=DangHuuLong&theme=onestar&no-frame=true&column=7&margin-w=10&margin-h=4" />
 
 </div>
 
@@ -183,7 +187,9 @@ Multi-role food management with Customer, Cashier & Admin interfaces, full auth 
 
 </div>
 
-<!-- SNAKE CONTRIBUTION GRAPH — Setup: create .github/workflows/snake.yml (see below) -->
+<!-- SNAKE CONTRIBUTION GRAPH -->
+<!-- ⚠️ Cần tạo file .github/workflows/snake.yml để generate snake SVG -->
+<!-- Xem hướng dẫn bên dưới nếu snake bị broken -->
 <div align="center">
 
 <picture>
