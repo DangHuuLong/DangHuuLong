@@ -1,30 +1,30 @@
 <div align="center">
 
-<!-- CYBERPUNK HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,30:0ff0fc,60:ff00ff,100:0d0d0d&height=280&section=header&text=ĐẶNG%20HỮU%20LONG&fontSize=65&fontColor=0ff0fc&fontAlignY=42&fontAlign=50&desc=◈%20FULL-STACK%20DEV%20◈%20MOBILE%20DEV%20◈%20IT%20STUDENT%20◈&descSize=15&descAlignY=62&descAlign=50&descColor=ff00ff&animation=twinkling&stroke=0ff0fc&strokeWidth=2" />
+<!-- CUTE HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:ffd6e7,50:c9b8ff,100:b8e0ff&height=260&section=header&text=Đặng%20Hữu%20Long&fontSize=65&fontColor=6b4fa0&fontAlignY=45&fontAlign=50&desc=✨%20Full-Stack%20Dev%20·%20Mobile%20Dev%20·%20IT%20Student%20✨&descSize=15&descAlignY=65&descAlign=50&descColor=a78bda&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&pause=900&color=0FF0FC&background=00000000&center=true&vCenter=true&width=760&height=50&lines=%5BSYS%5D+Initializing+developer+profile...;%5BNET%5D+React+·+Flutter+·+NestJS+·+FastAPI+·+Next.js;%5BAI%5D+Building+AI-Powered+Recruitment+Systems;%5BSTR%5D+160-Day+Streak+%7C+2%2C159+Contributions;%5BSTAT%5D+GPA+3.61%2F4.0+%7C+Codeforces+1147★;%5BJOB%5D+Open+to+Internship+%2F+Junior+Dev+Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=18&pause=900&color=a78bda&background=00000000&center=true&vCenter=true&width=700&height=45&lines=⊹₊˚+Initializing+developer+profile...+˚₊⊹;🌸+React+·+Flutter+·+NestJS+·+FastAPI+·+Next.js;🤖+Building+AI-Powered+Recruitment+Systems;🔥+160-Day+Streak+%7C+2%2C159+Contributions;🎓+GPA+3.61%2F4.0+%7C+Codeforces+1147+★;💌+Open+to+Internship+%2F+Junior+Dev+Roles" />
 
 <br/>
 
-<!-- NEON BADGES -->
+<!-- PASTEL BADGES -->
 <a href="mailto:danghuulong394@gmail.com">
-  <img src="https://img.shields.io/badge/▸_GMAIL-danghuulong394-ff00ff?style=flat-square&logo=gmail&logoColor=0ff0fc&labelColor=0d0d0d&color=ff00ff" />
+  <img src="https://img.shields.io/badge/💌_Gmail-danghuulong394-f9a8d4?style=flat-square&labelColor=fce7f3" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/h%E1%BB%AFu-long-%C4%91%E1%BA%B7ng-387226374/">
-  <img src="https://img.shields.io/badge/▸_LINKEDIN-Huu%20Long-0ff0fc?style=flat-square&logo=linkedin&logoColor=0ff0fc&labelColor=0d0d0d" />
+  <img src="https://img.shields.io/badge/🔗_LinkedIn-Huu%20Long-c4b5fd?style=flat-square&labelColor=ede9fe" />
 </a>
 &nbsp;
 <a href="https://github.com/DangHuuLong">
-  <img src="https://img.shields.io/badge/▸_GITHUB-DangHuuLong-ff00ff?style=flat-square&logo=github&logoColor=ff00ff&labelColor=0d0d0d" />
+  <img src="https://img.shields.io/badge/🐱_GitHub-DangHuuLong-93c5fd?style=flat-square&labelColor=dbeafe" />
 </a>
 &nbsp;
 <a href="https://codeforces.com/profile/Tansinhvienbkk23">
-  <img src="https://img.shields.io/badge/▸_CODEFORCES-1147★-0ff0fc?style=flat-square&logo=codeforces&logoColor=0ff0fc&labelColor=0d0d0d" />
+  <img src="https://img.shields.io/badge/⚡_Codeforces-1147★-86efac?style=flat-square&labelColor=dcfce7" />
 </a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=DangHuuLong&label=▸+VISITORS&color=ff00ff&style=flat-square&labelColor=0d0d0d" />
+<img src="https://komarev.com/ghpvc/?username=DangHuuLong&label=🌸+Visitors&color=f9a8d4&style=flat-square&labelColor=fce7f3" />
 
 </div>
 
@@ -32,57 +32,55 @@
 
 ---
 
-## ◈ // SYSTEM PROFILE
+## 🌸 About Me
 
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║                  > DEVELOPER_PROFILE.exe                        ║
-╠══════════════════════════════════════════════════════════════════╣
-║  ALIAS     ::  Đặng Hữu Long  [ Long Dang ]                     ║
-║  ORIGIN     ::  11.12.2005  /  Da Nang, Vietnam  🇻🇳             ║
-║  UNIT       ::  University of Science & Technology — UDN         ║
-║  CLASS      ::  Information Technology  ·  Year 03               ║
-║  GPA        ::  3.61 / 4.0  ████████████░░  DISTINCTION         ║
-╠══════════════════════════════════════════════════════════════════╣
-║  STATUS     ::  Mobile App Developer Intern @ Free AI Utilities  ║
-║  STACK      ::  Flutter · REST APIs · Auth · State Mgmt          ║
-║  MISSION    ::  🤖 AI Recruitment System (NestJS+FastAPI+Next.js)║
-║  LEARNING   ::  System Design · AI Integration · Backend Arch    ║
-║  TARGET     ::  Internship / Junior Full-Stack or Mobile Dev     ║
-╠══════════════════════════════════════════════════════════════════╣
-║  STREAK     ::  🔥 160 DAYS  ████████████████  ACTIVE           ║
-║  COMMITS    ::  ⭐ 2,159 contributions  [ and counting... ]      ║
-║  EXTRA      ::  ⚡ Competitive Programming — Codeforces          ║
-╚══════════════════════════════════════════════════════════════════╝
+╭────────────────────────────────────────────────────────────────╮
+│  🐣  Name    : Đặng Hữu Long  ( Long Dang )                    │
+│  🎂  Birth   : 11.12.2005  /  Da Nang, Vietnam  🇻🇳             │
+│  🏫  School  : University of Science & Technology — UDN        │
+│  📚  Major   : Information Technology  ·  Year 3               │
+│  🏅  GPA     : 3.61 / 4.0  ────────────────── DISTINCTION      │
+├────────────────────────────────────────────────────────────────┤
+│  💼  Status  : Mobile App Dev Intern @ Free AI Utilities        │
+│  🛠️  Stack   : Flutter · REST APIs · Auth · State Mgmt         │
+│  🚀  Project : AI Recruitment System (NestJS+FastAPI+Next.js)  │
+│  📖  Learning: System Design · AI Integration · Backend Arch   │
+│  🎯  Goal    : Internship / Junior Full-Stack or Mobile Dev     │
+├────────────────────────────────────────────────────────────────┤
+│  🔥  Streak  : 160 DAYS  ──────────────────────── ACTIVE       │
+│  ⭐  Commits : 2,159 contributions  ( and counting~ )          │
+│  🏆  Extra   : Competitive Programming — Codeforces            │
+╰────────────────────────────────────────────────────────────────╯
 ```
 
 ---
 
-## ◈ // TECH MATRIX
+## 🎨 Tech Stack
 
 <div align="center">
 
-**`[ FRONTEND & MOBILE ]`**
+**`✦ Frontend & Mobile ✦`**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,dart,ts,js,tailwind,bootstrap,vite&theme=dark&perline=9" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,dart,ts,js,tailwind,bootstrap,vite&theme=light&perline=9" />
 
-**`[ BACKEND ]`**
+**`✦ Backend ✦`**
 
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,python,dotnet,java,cpp&theme=dark&perline=9" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,python,dotnet,java,cpp&theme=light&perline=9" />
 
-**`[ DATABASE & ORM ]`**
+**`✦ Database & ORM ✦`**
 
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,prisma,supabase,firebase&theme=dark&perline=9" />
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,prisma,supabase,firebase&theme=light&perline=9" />
 
-**`[ TOOLS & DEVOPS ]`**
+**`✦ Tools & DevOps ✦`**
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,linux,vscode,visualstudio&theme=dark&perline=9" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,linux,vscode,visualstudio&theme=light&perline=9" />
 
 </div>
 
 ---
 
-## ◈ // MISSION LOGS
+## 🚀 Featured Projects
 
 <div align="center">
 
@@ -90,65 +88,50 @@
 <tr>
 <td width="33%" valign="top">
 
-```
-> PROJECT_01.exe
-> LOADING... [████████] 100%
-```
+### 🤖 AI Recruitment System
+`Apr 2026 — Present`
 
-### 🤖 AI RECRUITMENT SYSTEM
-`APR 2026 — PRESENT`
+![Next.js](https://img.shields.io/badge/Next.js-white?style=flat-square&logo=nextdotjs&logoColor=black)
+![NestJS](https://img.shields.io/badge/NestJS-fff0f3?style=flat-square&logo=nestjs&logoColor=e0234e)
+![FastAPI](https://img.shields.io/badge/FastAPI-f0fdf4?style=flat-square&logo=fastapi&logoColor=009688)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-eff6ff?style=flat-square&logo=postgresql&logoColor=336791)
 
-![Next.js](https://img.shields.io/badge/Next.js-0d0d0d?style=flat-square&logo=nextdotjs&logoColor=0ff0fc)
-![NestJS](https://img.shields.io/badge/NestJS-0d0d0d?style=flat-square&logo=nestjs&logoColor=ff00ff)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d0d0d?style=flat-square&logo=fastapi&logoColor=0ff0fc)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=flat-square&logo=postgresql&logoColor=ff00ff)
+AI-powered platform that screens CVs, parses JDs, and evaluates candidate-job fit with explainable scoring 🌟
 
-AI-powered platform to screen CVs, parse JDs, and evaluate candidate-job fit with explainable scoring.
-
-[![Frontend](https://img.shields.io/badge/◈_Frontend-0d0d0d?style=flat-square&logoColor=0ff0fc&color=0ff0fc&labelColor=0d0d0d)](https://github.com/DangHuuLong/Ai-Recruiter-Mini-Frontend)
-[![Backend](https://img.shields.io/badge/◈_Backend-0d0d0d?style=flat-square&color=ff00ff&labelColor=0d0d0d)](https://github.com/DangHuuLong/Ai-Recruiter-Mini-Backend)
-[![AI](https://img.shields.io/badge/◈_AI_Service-0d0d0d?style=flat-square&color=0ff0fc&labelColor=0d0d0d)](https://github.com/DangHuuLong/Ai-Recruiter-Mini-Ai-Service)
+[![Frontend](https://img.shields.io/badge/🌸_Frontend-fce7f3?style=flat-square&color=fce7f3&labelColor=fce7f3&logoColor=a78bda)](https://github.com/DangHuuLong/Ai-Recruiter-Mini-Frontend)
+[![Backend](https://img.shields.io/badge/💜_Backend-ede9fe?style=flat-square&color=ede9fe&labelColor=ede9fe)](https://github.com/DangHuuLong/Ai-Recruiter-Mini-Backend)
+[![AI](https://img.shields.io/badge/🤖_AI_Service-e0f2fe?style=flat-square&color=e0f2fe&labelColor=e0f2fe)](https://github.com/DangHuuLong/Ai-Recruiter-Mini-Ai-Service)
 
 </td>
 <td width="33%" valign="top">
 
-```
-> PROJECT_02.exe
-> LOADING... [████████] 100%
-```
+### 📱 Language Learning App
+`Jan 2026 — Apr 2026`
 
-### 📱 LANGUAGE LEARNING APP
-`JAN 2026 — APR 2026`
+![React Native](https://img.shields.io/badge/React_Native-f0f9ff?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-eff6ff?style=flat-square&logo=typescript&logoColor=3178C6)
+![Supabase](https://img.shields.io/badge/Supabase-f0fdf4?style=flat-square&logo=supabase&logoColor=3FCF8E)
+![Gemini](https://img.shields.io/badge/Gemini_AI-fff7ed?style=flat-square&logo=google&logoColor=4285F4)
 
-![React Native](https://img.shields.io/badge/React_Native-0d0d0d?style=flat-square&logo=react&logoColor=0ff0fc)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d0d0d?style=flat-square&logo=typescript&logoColor=ff00ff)
-![Supabase](https://img.shields.io/badge/Supabase-0d0d0d?style=flat-square&logo=supabase&logoColor=0ff0fc)
-![Gemini](https://img.shields.io/badge/Gemini_AI-0d0d0d?style=flat-square&logo=google&logoColor=ff00ff)
+Mobile app for Reading, Listening, Speaking, Writing, Flashcards & Dictionary with AI integration 📖
 
-Mobile app for Reading, Listening, Speaking, Writing, Flashcards & Dictionary with AI integration.
-
-[![App](https://img.shields.io/badge/◈_App-0d0d0d?style=flat-square&color=0ff0fc&labelColor=0d0d0d)](https://github.com/DangHuuLong/Language-Learning-App)
-[![Backend](https://img.shields.io/badge/◈_Backend-0d0d0d?style=flat-square&color=ff00ff&labelColor=0d0d0d)](https://github.com/DangHuuLong/Language-Learning-App-Backend)
+[![App](https://img.shields.io/badge/📱_App-fce7f3?style=flat-square&color=fce7f3&labelColor=fce7f3)](https://github.com/DangHuuLong/Language-Learning-App)
+[![Backend](https://img.shields.io/badge/💜_Backend-ede9fe?style=flat-square&color=ede9fe&labelColor=ede9fe)](https://github.com/DangHuuLong/Language-Learning-App-Backend)
 
 </td>
 <td width="33%" valign="top">
 
-```
-> PROJECT_03.exe
-> LOADING... [████████] 100%
-```
+### 🍔 Food Store System
+`Nov 2025 — Feb 2026`
 
-### 🍔 FOOD STORE SYSTEM
-`NOV 2025 — FEB 2026`
+![React](https://img.shields.io/badge/React-f0f9ff?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-f0fdf4?style=flat-square&logo=nodedotjs&logoColor=339933)
+![MongoDB](https://img.shields.io/badge/MongoDB-f0fdf4?style=flat-square&logo=mongodb&logoColor=47A248)
+![Redux](https://img.shields.io/badge/Redux-faf5ff?style=flat-square&logo=redux&logoColor=764ABC)
 
-![React](https://img.shields.io/badge/React-0d0d0d?style=flat-square&logo=react&logoColor=0ff0fc)
-![Node.js](https://img.shields.io/badge/Node.js-0d0d0d?style=flat-square&logo=nodedotjs&logoColor=ff00ff)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d0d0d?style=flat-square&logo=mongodb&logoColor=0ff0fc)
-![Redux](https://img.shields.io/badge/Redux-0d0d0d?style=flat-square&logo=redux&logoColor=ff00ff)
+Multi-role food management with Customer, Cashier & Admin interfaces, full auth & image management 🍱
 
-Multi-role food management with Customer, Cashier & Admin interfaces, full auth & image management.
-
-[![App](https://img.shields.io/badge/◈_Full_App-0d0d0d?style=flat-square&color=0ff0fc&labelColor=0d0d0d)](https://github.com/DangHuuLong/Food-Delivery)
+[![App](https://img.shields.io/badge/🍔_Full_App-fce7f3?style=flat-square&color=fce7f3&labelColor=fce7f3)](https://github.com/DangHuuLong/Food-Delivery)
 
 </td>
 </tr>
@@ -158,104 +141,104 @@ Multi-role food management with Customer, Cashier & Admin interfaces, full auth 
 
 ---
 
-## ◈ // SYSTEM METRICS
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=DangHuuLong&show_icons=true&hide_border=true&count_private=true&bg_color=0d0d0d&title_color=0ff0fc&icon_color=ff00ff&text_color=0ff0fc&ring_color=ff00ff&border_radius=0&include_all_commits=true&cache_seconds=86400&rank_icon=github" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=DangHuuLong&show_icons=true&hide_border=true&count_private=true&bg_color=fdf4ff&title_color=a78bda&icon_color=f9a8d4&text_color=7c3aed&ring_color=c4b5fd&border_radius=16&include_all_commits=true&cache_seconds=86400&rank_icon=github" />
 &nbsp;
-<img height="180" src="https://streak-stats.demolab.com?user=DangHuuLong&theme=transparent&hide_border=true&background=0d0d0d&stroke=0ff0fc&ring=ff00ff&fire=0ff0fc&currStreakLabel=0ff0fc&sideLabels=ff00ff&dates=0ff0fc&currStreakNum=ff00ff&sideNums=0ff0fc&border_radius=0&card_width=495&exclude_days=Sun" />
+<img height="180" src="https://streak-stats.demolab.com?user=DangHuuLong&theme=transparent&hide_border=true&background=fdf4ff&stroke=c4b5fd&ring=f9a8d4&fire=fb923c&currStreakLabel=a78bda&sideLabels=a78bda&dates=c4b5fd&currStreakNum=7c3aed&sideNums=7c3aed&border_radius=16&card_width=495&exclude_days=Sun" />
 
 <br/>
 
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DangHuuLong&layout=donut&hide_border=true&bg_color=0d0d0d&title_color=0ff0fc&text_color=ff00ff&border_radius=0&langs_count=8&cache_seconds=86400" />
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DangHuuLong&layout=donut&hide_border=true&bg_color=fdf4ff&title_color=a78bda&text_color=7c3aed&border_radius=16&langs_count=8&cache_seconds=86400" />
 
 </div>
 
 ---
 
-## ◈ // TROPHIES
+## 🏆 Trophies
 
 <div align="center">
 
-<img width="97%" src="https://github-trophies.vercel.app/?username=DangHuuLong&theme=matrix&no-frame=true&column=7&margin-w=8&margin-h=4" />
+<img width="97%" src="https://github-trophies.vercel.app/?username=DangHuuLong&theme=rose_pine&no-frame=true&column=7&margin-w=8&margin-h=4" />
 
 </div>
 
 ---
 
-## ◈ // ACTIVITY GRID
+## 🌱 Activity
 
 <div align="center">
 
-<img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=DangHuuLong&bg_color=0d0d0d&color=0ff0fc&line=ff00ff&point=0ff0fc&area=true&area_color=ff00ff&hide_border=true&radius=0&custom_title=◈+CONTRIBUTION+GRID+◈" />
+<img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=DangHuuLong&bg_color=fdf4ff&color=a78bda&line=c4b5fd&point=f9a8d4&area=true&area_color=e9d5ff&hide_border=true&radius=8&custom_title=🌸+Contribution+Garden+🌸" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DangHuuLong/DangHuuLong/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DangHuuLong/DangHuuLong/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/DangHuuLong/DangHuuLong/output/github-contribution-grid-snake-dark.svg" width="97%" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/DangHuuLong/DangHuuLong/output/github-contribution-grid-snake.svg" width="97%" />
 </picture>
 
 </div>
 
 ---
 
-## ◈ // EDUCATION & CP
+## 🎓 Education & Competitive Programming
 
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════════╗
-║  🏫  University of Science & Technology — UDN             ║
-║  📚  B.Sc. Information Technology  ·  2023 — Present      ║
-║  🏅  GPA: 3.61 / 4.0                                      ║
-║  💼  Intern: Mobile App Dev @ Free AI Utilities            ║
-║       Sep 2025 — Present                                   ║
-╚═══════════════════════════════════════════════════════════╝
+╭──────────────────────────────────────────────────────────╮
+│  🏫  University of Science & Technology — UDN            │
+│  📚  B.Sc. Information Technology  ·  2023 — Present     │
+│  🏅  GPA: 3.61 / 4.0                                     │
+│  💼  Intern: Mobile App Dev @ Free AI Utilities           │
+│       Sep 2025 — Present                                  │
+╰──────────────────────────────────────────────────────────╯
 ```
 
-[![Codeforces](https://img.shields.io/badge/◈_CODEFORCES-Tansinhvienbkk23-0ff0fc?style=for-the-badge&logo=codeforces&logoColor=0ff0fc&labelColor=0d0d0d)](https://codeforces.com/profile/Tansinhvienbkk23)
+[![Codeforces](https://img.shields.io/badge/⚡_Codeforces-Tansinhvienbkk23-86efac?style=for-the-badge&logo=codeforces&logoColor=22c55e&labelColor=dcfce7)](https://codeforces.com/profile/Tansinhvienbkk23)
 &nbsp;
-![Rating](https://img.shields.io/badge/PEAK_RATING-1147★-ff00ff?style=for-the-badge&labelColor=0d0d0d)
+![Rating](https://img.shields.io/badge/🌟_Peak_Rating-1147★-c4b5fd?style=for-the-badge&labelColor=ede9fe)
 
 </div>
 
 ---
 
-## ◈ // CONNECT
+## 💌 Let's Connect!
 
 <div align="center">
 
 <a href="mailto:danghuulong394@gmail.com">
-  <img src="https://img.shields.io/badge/◈_GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d" />
+  <img src="https://img.shields.io/badge/💌_Gmail-fce7f3?style=for-the-badge&logo=gmail&logoColor=e11d48&labelColor=fce7f3&color=fce7f3" />
 </a>
 &nbsp;
 <a href="https://github.com/DangHuuLong">
-  <img src="https://img.shields.io/badge/◈_GITHUB-0ff0fc?style=for-the-badge&logo=github&logoColor=0d0d0d&labelColor=0d0d0d&color=0ff0fc" />
+  <img src="https://img.shields.io/badge/🐱_GitHub-dbeafe?style=for-the-badge&logo=github&logoColor=1d4ed8&labelColor=dbeafe&color=dbeafe" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/h%E1%BB%AFu-long-%C4%91%E1%BA%B7ng-387226374/">
-  <img src="https://img.shields.io/badge/◈_LINKEDIN-ff00ff?style=for-the-badge&logo=linkedin&logoColor=0d0d0d&labelColor=0d0d0d&color=ff00ff" />
+  <img src="https://img.shields.io/badge/🔗_LinkedIn-ede9fe?style=for-the-badge&logo=linkedin&logoColor=7c3aed&labelColor=ede9fe&color=ede9fe" />
 </a>
 &nbsp;
 <a href="https://www.facebook.com/anghuulong.2024">
-  <img src="https://img.shields.io/badge/◈_FACEBOOK-0ff0fc?style=for-the-badge&logo=facebook&logoColor=0d0d0d&labelColor=0d0d0d&color=0ff0fc" />
+  <img src="https://img.shields.io/badge/💬_Facebook-dbeafe?style=for-the-badge&logo=facebook&logoColor=1877F2&labelColor=dbeafe&color=dbeafe" />
 </a>
 &nbsp;
 <a href="https://codeforces.com/profile/Tansinhvienbkk23">
-  <img src="https://img.shields.io/badge/◈_CODEFORCES-ff00ff?style=for-the-badge&logo=codeforces&logoColor=0d0d0d&labelColor=0d0d0d&color=ff00ff" />
+  <img src="https://img.shields.io/badge/⚡_Codeforces-dcfce7?style=for-the-badge&logo=codeforces&logoColor=22c55e&labelColor=dcfce7&color=dcfce7" />
 </a>
 
 <br/><br/>
 
 ```
-> "The code is the weapon. The terminal is the battlefield."
-> "Execute with precision. Deploy without mercy."
-                                          — Long 💀
+✨ "Write code with love, debug with patience." ✨
+🌸 Always learning, always growing ~ 🌱
+                                   — Long 🐣
 ```
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,40:ff00ff,75:0ff0fc,100:0d0d0d&height=140&section=footer&text=◈+SYSTEM+OFFLINE+◈&fontSize=20&fontColor=0ff0fc&fontAlignY=65&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:b8e0ff,50:c9b8ff,100:ffd6e7&height=120&section=footer&text=Thanks+for+visiting!+˚₊✧&fontSize=22&fontColor=7c3aed&fontAlignY=60&animation=fadeIn" />
 
 </div>
