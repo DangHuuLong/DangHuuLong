@@ -1,270 +1,250 @@
 <div align="center">
 
-<!-- 🌅 JAPANESE SUNSET HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd700,25:f7931e,60:e8550a,100:3d1200&height=310&section=header&text=Đặng%20Hữu%20Long&fontSize=68&fontColor=fff8f0&fontAlignY=40&fontAlign=50&desc=⛩️%20Full-Stack%20Dev%20·%20Mobile%20Dev%20·%20IT%20Student%20⛩️&descSize=17&descAlignY=63&descAlign=50&descColor=ffd59e&animation=fadeIn" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=18&pause=1000&color=e8550a&background=00000000&center=true&vCenter=true&width=750&height=45&lines=⛩️+Initializing+developer+profile...;🌸+React+·+Flutter+·+NestJS+·+FastAPI+·+Next.js;🤖+Building+AI-Powered+Recruitment+Systems;🔥+160-Day+Streak+%7C+2%2C159+Contributions;🎓+GPA+3.61%2F4.0+%7C+Codeforces+1147+★;🌅+Open+to+Internship+%2F+Junior+Dev+Roles" />
-
-<br/>
-
-<!-- SOCIAL BADGES -->
-<a href="mailto:danghuulong394@gmail.com">
-  <img src="https://img.shields.io/badge/💌_Gmail-danghuulong394-e8550a?style=flat-square&labelColor=fff3e0" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/h%E1%BB%AFu-long-%C4%91%E1%BA%B7ng-387226374/">
-  <img src="https://img.shields.io/badge/🔗_LinkedIn-Huu%20Long-f7931e?style=flat-square&labelColor=fff8e1" />
-</a>
-&nbsp;
-<a href="https://github.com/DangHuuLong">
-  <img src="https://img.shields.io/badge/🐱_GitHub-DangHuuLong-e8550a?style=flat-square&labelColor=ffe0b2" />
-</a>
-&nbsp;
-<a href="https://codeforces.com/profile/Tansinhvienbkk23">
-  <img src="https://img.shields.io/badge/⚡_Codeforces-1147★-f7931e?style=flat-square&labelColor=fffde7" />
-</a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=DangHuuLong&label=🌸+Visitors&color=e8550a&style=flat-square&labelColor=fff3e0" />
-
-</div>
-
-<br/>
-
----
-
-## 🌅 About Me
-
-<div align="center">
+<!-- TERMINAL HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0a0a0a&height=3&section=header" />
 
 ```
-  🗻 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 🌸
-
-     👤  Name    :  Đặng Hữu Long  ( Long Dang )
-     🎂  Birth   :  11.12.2005   ·   Da Nang, Vietnam  🇻🇳
-     🏫  School  :  University of Science & Technology — UDN
-     📚  Major   :  Information Technology   ·   Year 3
-     🏅  GPA     :  3.61 / 4.0  ─────────────────  DISTINCTION
-
-  🌸 ──────────────────── ⛩️  NOW  ⛩️ ──────────────────── 🌸
-
-     💼  Mobile App Dev Intern @ Free AI Utilities  ( Sep 2025 ▶ )
-     🚀  Building  :  AI Recruitment System
-          └─ NestJS  ·  FastAPI  ·  Next.js  ·  PostgreSQL
-     📖  Learning  :  System Design · AI Integration · Backend Arch
-     🎯  Goal      :  Internship / Junior Full-Stack or Mobile Dev
-
-  🔥 ───────────────── ⛩️  HIGHLIGHTS  ⛩️ ───────────────── 🔥
-
-     🔥  Streak     :  160 DAYS ──────────────────── ACTIVE
-     ⭐  Commits    :  2,159 contributions  ( and counting~ )
-     ⚡  Codeforces :  Rating  1147 ★
-
-  🗻 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 🌅
+╔══════════════════════════════════════════════════════════════════════════╗
+║                                                                          ║
+║    ██████╗  █████╗ ███╗   ██╗ ██████╗     ██╗  ██╗██╗   ██╗██╗   ██╗   ║
+║    ██╔══██╗██╔══██╗████╗  ██║██╔════╝     ██║  ██║██║   ██║██║   ██║   ║
+║    ██║  ██║███████║██╔██╗ ██║██║  ███╗    ███████║██║   ██║██║   ██║   ║
+║    ██║  ██║██╔══██║██║╚██╗██║██║   ██║    ██╔══██║██║   ██║██║   ██║   ║
+║    ██████╔╝██║  ██║██║ ╚████║╚██████╔╝    ██║  ██║╚██████╔╝╚██████╔╝   ║
+║    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝     ╚═╝  ╚═╝ ╚═════╝  ╚═════╝   ║
+║                                                                          ║
+║              [ LONG ]  ·  Full-Stack & Mobile Developer                  ║
+╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**`⛩ ── Frontend & Mobile ── ⛩`**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,dart,ts,js,tailwind,bootstrap,vite&theme=light&perline=9" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=800&color=00FF88&background=00000000&center=true&vCenter=true&width=700&height=40&lines=%24+whoami+--+Đặng+Hữu+Long+%7C+IT+Student+%40+UDN;%24+status+--+160-Day+Streak+%7C+2%2C159+Commits;%24+stack+--+React+%7C+Flutter+%7C+NestJS+%7C+FastAPI;%24+goal+--+Internship+%2F+Junior+Dev+%5BOPEN%5D;%24+rating+--+Codeforces+1147+★" />
 
 <br/>
 
-**`⛩ ── Backend ── ⛩`**
-
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,python,dotnet,java,cpp&theme=light&perline=9" />
-
-<br/>
-
-**`⛩ ── Database & ORM ── ⛩`**
-
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,prisma,supabase,firebase&theme=light&perline=9" />
-
-<br/>
-
-**`⛩ ── Tools & DevOps ── ⛩`**
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,linux,vscode,visualstudio&theme=light&perline=9" />
+![](https://img.shields.io/badge/STATUS-AVAILABLE_FOR_HIRE-00ff88?style=flat-square&labelColor=0d0d0d&color=00ff88)
+![](https://img.shields.io/badge/STREAK-160_DAYS-00d4ff?style=flat-square&labelColor=0d0d0d)
+![](https://img.shields.io/badge/GPA-3.61%2F4.0-ff6b35?style=flat-square&labelColor=0d0d0d)
+![](https://img.shields.io/badge/CF-1147★-ffdd00?style=flat-square&labelColor=0d0d0d)
+<a href="mailto:danghuulong394@gmail.com"><img src="https://img.shields.io/badge/GMAIL-danghuulong394-ff4444?style=flat-square&labelColor=0d0d0d" /></a>
+<a href="https://www.linkedin.com/in/h%E1%BB%AFu-long-%C4%91%E1%BA%B7ng-387226374/"><img src="https://img.shields.io/badge/LINKEDIN-connect-0088ff?style=flat-square&labelColor=0d0d0d" /></a>
+<a href="https://github.com/DangHuuLong"><img src="https://img.shields.io/badge/GITHUB-DangHuuLong-aaaaaa?style=flat-square&labelColor=0d0d0d" /></a>
+<img src="https://komarev.com/ghpvc/?username=DangHuuLong&label=VIEWS&color=00ff88&style=flat-square&labelColor=0d0d0d" />
 
 </div>
 
+<br/>
+
+## `$ cat profile.json`
+
+```json
+{
+  "name"     : "Đặng Hữu Long  (Long Dang)",
+  "born"     : "11.12.2005  ·  Da Nang, Vietnam 🇻🇳",
+  "school"   : "University of Science & Technology — UDN",
+  "major"    : "Information Technology  ·  Year 3",
+  "gpa"      : "3.61 / 4.0  [DISTINCTION]",
+  "role"     : "Mobile App Dev Intern @ Free AI Utilities  (Sep 2025 →)",
+  "building" : "AI Recruitment System  [NestJS · FastAPI · Next.js · PostgreSQL]",
+  "learning" : ["System Design", "AI Integration", "Backend Architecture"],
+  "seeking"  : "Internship / Junior Full-Stack or Mobile Dev",
+  "quote"    : "Write code with love, debug with patience."
+}
+```
+
+<br/>
+
+## `$ ls ./tech-stack/`
+
+```
+./frontend-mobile/
+```
+![React](https://img.shields.io/badge/React-0d0d0d?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0d0d0d?style=flat-square&logo=nextdotjs&logoColor=ffffff)
+![Flutter](https://img.shields.io/badge/Flutter-0d0d0d?style=flat-square&logo=flutter&logoColor=54C5F8)
+![React Native](https://img.shields.io/badge/React_Native-0d0d0d?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d0d0d?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Tailwind](https://img.shields.io/badge/Tailwind-0d0d0d?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+![Vite](https://img.shields.io/badge/Vite-0d0d0d?style=flat-square&logo=vite&logoColor=646CFF)
+
+```
+./backend/
+```
+![NestJS](https://img.shields.io/badge/NestJS-0d0d0d?style=flat-square&logo=nestjs&logoColor=E0234E)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d0d0d?style=flat-square&logo=fastapi&logoColor=009688)
+![Node.js](https://img.shields.io/badge/Node.js-0d0d0d?style=flat-square&logo=nodedotjs&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-0d0d0d?style=flat-square&logo=express&logoColor=ffffff)
+![Python](https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logo=python&logoColor=3776AB)
+![.NET](https://img.shields.io/badge/.NET-0d0d0d?style=flat-square&logo=dotnet&logoColor=512BD4)
+![Java](https://img.shields.io/badge/Java-0d0d0d?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![C++](https://img.shields.io/badge/C++-0d0d0d?style=flat-square&logo=cplusplus&logoColor=00599C)
+
+```
+./database/
+```
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=flat-square&logo=postgresql&logoColor=336791)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d0d0d?style=flat-square&logo=mongodb&logoColor=47A248)
+![MySQL](https://img.shields.io/badge/MySQL-0d0d0d?style=flat-square&logo=mysql&logoColor=4479A1)
+![Prisma](https://img.shields.io/badge/Prisma-0d0d0d?style=flat-square&logo=prisma&logoColor=ffffff)
+![Supabase](https://img.shields.io/badge/Supabase-0d0d0d?style=flat-square&logo=supabase&logoColor=3FCF8E)
+![Firebase](https://img.shields.io/badge/Firebase-0d0d0d?style=flat-square&logo=firebase&logoColor=FFCA28)
+
+```
+./devops-tools/
+```
+![Git](https://img.shields.io/badge/Git-0d0d0d?style=flat-square&logo=git&logoColor=F05032)
+![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=flat-square&logo=docker&logoColor=2496ED)
+![Vercel](https://img.shields.io/badge/Vercel-0d0d0d?style=flat-square&logo=vercel&logoColor=ffffff)
+![Postman](https://img.shields.io/badge/Postman-0d0d0d?style=flat-square&logo=postman&logoColor=FF6C37)
+![Linux](https://img.shields.io/badge/Linux-0d0d0d?style=flat-square&logo=linux&logoColor=FCC624)
+![VS Code](https://img.shields.io/badge/VS_Code-0d0d0d?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
+
+<br/>
+
+## `$ git log --projects --oneline`
+
+```
+commit a1b2c3d  [ACTIVE]  Apr 2026 – Present
+```
+### 🤖 &nbsp;AI Recruitment System
+
+> AI platform that parses CVs & JDs, evaluates candidate-job fit with explainable scoring
+
+```
+STACK   →  Next.js  ·  NestJS  ·  FastAPI  ·  PostgreSQL
+```
+
+[![Frontend](https://img.shields.io/badge/[REPO]_Frontend-0d0d0d?style=flat-square&logo=github&logoColor=00ff88&color=0d0d0d)](https://github.com/DangHuuLong/Ai-Recruiter-Mini-Frontend)
+[![Backend](https://img.shields.io/badge/[REPO]_Backend-0d0d0d?style=flat-square&logo=github&logoColor=00ff88&color=0d0d0d)](https://github.com/DangHuuLong/Ai-Recruiter-Mini-Backend)
+[![AI Service](https://img.shields.io/badge/[REPO]_AI_Service-0d0d0d?style=flat-square&logo=github&logoColor=00ff88&color=0d0d0d)](https://github.com/DangHuuLong/Ai-Recruiter-Mini-Ai-Service)
+
 ---
 
-## 🚀 Featured Projects
+```
+commit e4f5a6b  Jan 2026 – Apr 2026
+```
+### 📱 &nbsp;Language Learning App
+
+> Mobile app: Reading · Listening · Speaking · Writing · Flashcards · AI Dictionary
+
+```
+STACK   →  React Native  ·  TypeScript  ·  Supabase  ·  Gemini AI
+```
+
+[![App](https://img.shields.io/badge/[REPO]_App-0d0d0d?style=flat-square&logo=github&logoColor=00d4ff&color=0d0d0d)](https://github.com/DangHuuLong/Language-Learning-App)
+[![Backend](https://img.shields.io/badge/[REPO]_Backend-0d0d0d?style=flat-square&logo=github&logoColor=00d4ff&color=0d0d0d)](https://github.com/DangHuuLong/Language-Learning-App-Backend)
+
+---
+
+```
+commit c7d8e9f  Nov 2025 – Feb 2026
+```
+### 🍱 &nbsp;Food Store System
+
+> Multi-role system: Customer · Cashier · Admin with full auth & image management
+
+```
+STACK   →  React  ·  Node.js  ·  MongoDB  ·  Redux
+```
+
+[![Full App](https://img.shields.io/badge/[REPO]_Full_App-0d0d0d?style=flat-square&logo=github&logoColor=ff6b35&color=0d0d0d)](https://github.com/DangHuuLong/Food-Delivery)
+
+<br/>
+
+## `$ gh stats --user DangHuuLong`
 
 <div align="center">
 
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🤖 AI Recruitment System
-`Apr 2026 — Present` 🔥 Active
-
-![Next.js](https://img.shields.io/badge/Next.js-fff8f0?style=flat-square&logo=nextdotjs&logoColor=1a1a1a)
-![NestJS](https://img.shields.io/badge/NestJS-fff3e0?style=flat-square&logo=nestjs&logoColor=e0234e)
-![FastAPI](https://img.shields.io/badge/FastAPI-fffde7?style=flat-square&logo=fastapi&logoColor=009688)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-fff8e1?style=flat-square&logo=postgresql&logoColor=336791)
-
-AI platform that screens CVs, parses JDs & evaluates candidate-job fit with explainable scoring 🌟
-
-[![Frontend](https://img.shields.io/badge/🌸_Frontend-fff3e0?style=flat-square&color=fff3e0&labelColor=fff3e0)](https://github.com/DangHuuLong/Ai-Recruiter-Mini-Frontend)
-[![Backend](https://img.shields.io/badge/🔥_Backend-ffe0b2?style=flat-square&color=ffe0b2&labelColor=ffe0b2)](https://github.com/DangHuuLong/Ai-Recruiter-Mini-Backend)
-[![AI](https://img.shields.io/badge/🤖_AI_Service-fffde7?style=flat-square&color=fffde7&labelColor=fffde7)](https://github.com/DangHuuLong/Ai-Recruiter-Mini-Ai-Service)
-
-</td>
-<td width="33%" valign="top">
-
-### 📱 Language Learning App
-`Jan 2026 — Apr 2026`
-
-![React Native](https://img.shields.io/badge/React_Native-fff8f0?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-fffde7?style=flat-square&logo=typescript&logoColor=3178C6)
-![Supabase](https://img.shields.io/badge/Supabase-fff3e0?style=flat-square&logo=supabase&logoColor=3FCF8E)
-![Gemini](https://img.shields.io/badge/Gemini_AI-ffe0b2?style=flat-square&logo=google&logoColor=4285F4)
-
-Mobile app for Reading, Listening, Speaking, Writing, Flashcards & Dictionary — powered by AI 📖
-
-[![App](https://img.shields.io/badge/📱_App-fff3e0?style=flat-square&color=fff3e0&labelColor=fff3e0)](https://github.com/DangHuuLong/Language-Learning-App)
-[![Backend](https://img.shields.io/badge/🔥_Backend-ffe0b2?style=flat-square&color=ffe0b2&labelColor=ffe0b2)](https://github.com/DangHuuLong/Language-Learning-App-Backend)
-
-</td>
-<td width="33%" valign="top">
-
-### 🍱 Food Store System
-`Nov 2025 — Feb 2026`
-
-![React](https://img.shields.io/badge/React-fff8f0?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-fffde7?style=flat-square&logo=nodedotjs&logoColor=339933)
-![MongoDB](https://img.shields.io/badge/MongoDB-fff3e0?style=flat-square&logo=mongodb&logoColor=47A248)
-![Redux](https://img.shields.io/badge/Redux-ffe0b2?style=flat-square&logo=redux&logoColor=764ABC)
-
-Multi-role food management: Customer, Cashier & Admin, full auth & image management 🍜
-
-[![App](https://img.shields.io/badge/🍱_Full_App-fff3e0?style=flat-square&color=fff3e0&labelColor=fff3e0)](https://github.com/DangHuuLong/Food-Delivery)
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=DangHuuLong&show_icons=true&hide_border=true&count_private=true&bg_color=fff8f0&title_color=e8550a&icon_color=f7931e&text_color=7b2d00&ring_color=ffd700&border_radius=16&include_all_commits=true&cache_seconds=86400&rank_icon=github" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=DangHuuLong&show_icons=true&hide_border=true&count_private=true&bg_color=0d0d0d&title_color=00ff88&icon_color=00d4ff&text_color=aaaaaa&ring_color=00ff88&border_radius=6&include_all_commits=true&cache_seconds=86400&rank_icon=github" />
 &nbsp;
-<img height="180" src="https://streak-stats.demolab.com?user=DangHuuLong&theme=transparent&hide_border=true&background=fff8f0&stroke=ffd700&ring=e8550a&fire=f7931e&currStreakLabel=e8550a&sideLabels=f7931e&dates=c97400&currStreakNum=7b2d00&sideNums=7b2d00&border_radius=16&card_width=495&exclude_days=Sun" />
+<img height="175" src="https://streak-stats.demolab.com?user=DangHuuLong&theme=transparent&hide_border=true&background=0d0d0d&stroke=333333&ring=00ff88&fire=ff6b35&currStreakLabel=00ff88&sideLabels=00d4ff&dates=555555&currStreakNum=ffffff&sideNums=ffffff&border_radius=6&card_width=490&exclude_days=Sun" />
 
 <br/>
 
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DangHuuLong&layout=donut&hide_border=true&bg_color=fff8f0&title_color=e8550a&text_color=7b2d00&border_radius=16&langs_count=8&cache_seconds=86400" />
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DangHuuLong&layout=donut&hide_border=true&bg_color=0d0d0d&title_color=00ff88&text_color=aaaaaa&border_radius=6&langs_count=8&cache_seconds=86400" />
 
 </div>
 
----
+<br/>
 
-## 🏆 Trophies
+## `$ trophy --show-all`
 
 <div align="center">
 
-<img width="97%" src="https://github-trophies.vercel.app/?username=DangHuuLong&theme=flat&no-frame=true&column=7&margin-w=8&margin-h=4" />
+<img width="97%" src="https://github-trophies.vercel.app/?username=DangHuuLong&theme=matrix&no-frame=true&column=7&margin-w=6&margin-h=4" />
 
 </div>
 
----
+<br/>
 
-## 🌱 Activity
+## `$ git log --graph --activity`
 
 <div align="center">
 
-<img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=DangHuuLong&bg_color=fff8f0&color=e8550a&line=f7931e&point=ffd700&area=true&area_color=ffe0b2&hide_border=true&radius=8&custom_title=🌅+Contribution+Landscape+🗻" />
+<img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=DangHuuLong&bg_color=0d0d0d&color=00ff88&line=00d4ff&point=ffffff&area=true&area_color=001a0d&hide_border=true&radius=4&custom_title=CONTRIBUTION+GRAPH+——+DangHuuLong" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DangHuuLong/DangHuuLong/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DangHuuLong/DangHuuLong/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/DangHuuLong/DangHuuLong/output/github-contribution-grid-snake.svg" width="97%" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/DangHuuLong/DangHuuLong/output/github-contribution-grid-snake-dark.svg" width="97%" />
 </picture>
 
 </div>
 
----
+<br/>
 
-## 🎓 Education & Competitive Programming
-
-<div align="center">
+## `$ cat education.log`
 
 ```
-  🌸 ──────────────────────────────────────────────────── ⛩️
-
-     🏫  University of Science & Technology — UDN
-     📚  B.Sc. Information Technology   ·   2023 — Present
-     🏅  GPA: 3.61 / 4.0  ──────────────────── DISTINCTION
-     💼  Intern: Mobile App Dev @ Free AI Utilities
-          Sep 2025 — Present
-
-  ⛩️ ──────────────────────────────────────────────────── 🌸
+┌─────────────────────────────────────────────────────────────────────┐
+│                                                                     │
+│  INSTITUTION  University of Science & Technology — UDN             │
+│  DEGREE       B.Sc. Information Technology                         │
+│  DURATION     2023 — Present  (Year 3)                             │
+│  GPA          3.61 / 4.0  ──────────────────────────  DISTINCTION  │
+│                                                                     │
+│  EXPERIENCE   Mobile App Dev Intern                                 │
+│               @ Free AI Utilities  (Sep 2025 → Present)            │
+│                                                                     │
+│  COMPETITIVE  Codeforces: Tansinhvienbkk23  ·  Peak Rating: 1147★  │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
 ```
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-Tansinhvienbkk23-0d0d0d?style=for-the-badge&logo=codeforces&logoColor=00d4ff&labelColor=0d0d0d)](https://codeforces.com/profile/Tansinhvienbkk23)
+&nbsp;
+![Rating](https://img.shields.io/badge/PEAK_RATING-1147★-ffdd00?style=for-the-badge&labelColor=0d0d0d)
 
 <br/>
 
-[![Codeforces](https://img.shields.io/badge/⚡_Codeforces-Tansinhvienbkk23-e8550a?style=for-the-badge&logo=codeforces&logoColor=f7931e&labelColor=fff3e0)](https://codeforces.com/profile/Tansinhvienbkk23)
-&nbsp;
-![Rating](https://img.shields.io/badge/🌟_Peak_Rating-1147★-ffd700?style=for-the-badge&labelColor=fff8e1)
+## `$ ping --contacts`
 
-</div>
-
----
-
-## 💌 Let's Connect!
+```
+PING danghuulong394@gmail.com ... 1 ms  [OK]
+```
 
 <div align="center">
 
-<a href="mailto:danghuulong394@gmail.com">
-  <img src="https://img.shields.io/badge/💌_Gmail-fff3e0?style=for-the-badge&logo=gmail&logoColor=e11d48&labelColor=fff3e0&color=fff3e0" />
-</a>
+<a href="mailto:danghuulong394@gmail.com"><img src="https://img.shields.io/badge/GMAIL-0d0d0d?style=for-the-badge&logo=gmail&logoColor=ff4444&labelColor=0d0d0d" /></a>
 &nbsp;
-<a href="https://github.com/DangHuuLong">
-  <img src="https://img.shields.io/badge/🐱_GitHub-ffe0b2?style=for-the-badge&logo=github&logoColor=7b2d00&labelColor=ffe0b2&color=ffe0b2" />
-</a>
+<a href="https://github.com/DangHuuLong"><img src="https://img.shields.io/badge/GITHUB-0d0d0d?style=for-the-badge&logo=github&logoColor=00ff88&labelColor=0d0d0d" /></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/h%E1%BB%AFu-long-%C4%91%E1%BA%B7ng-387226374/">
-  <img src="https://img.shields.io/badge/🔗_LinkedIn-fff8e1?style=for-the-badge&logo=linkedin&logoColor=e8550a&labelColor=fff8e1&color=fff8e1" />
-</a>
+<a href="https://www.linkedin.com/in/h%E1%BB%AFu-long-%C4%91%E1%BA%B7ng-387226374/"><img src="https://img.shields.io/badge/LINKEDIN-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=0088ff&labelColor=0d0d0d" /></a>
 &nbsp;
-<a href="https://www.facebook.com/anghuulong.2024">
-  <img src="https://img.shields.io/badge/💬_Facebook-fffde7?style=for-the-badge&logo=facebook&logoColor=1877F2&labelColor=fffde7&color=fffde7" />
-</a>
+<a href="https://www.facebook.com/anghuulong.2024"><img src="https://img.shields.io/badge/FACEBOOK-0d0d0d?style=for-the-badge&logo=facebook&logoColor=1877F2&labelColor=0d0d0d" /></a>
 &nbsp;
-<a href="https://codeforces.com/profile/Tansinhvienbkk23">
-  <img src="https://img.shields.io/badge/⚡_Codeforces-fff3e0?style=for-the-badge&logo=codeforces&logoColor=f7931e&labelColor=fff3e0&color=fff3e0" />
-</a>
+<a href="https://codeforces.com/profile/Tansinhvienbkk23"><img src="https://img.shields.io/badge/CODEFORCES-0d0d0d?style=for-the-badge&logo=codeforces&logoColor=ffdd00&labelColor=0d0d0d" /></a>
 
 <br/><br/>
 
 ```
-  🌸 ─────────────────────────────────────────────── ⛩️
-
-   🌅  "Write code with love, debug with patience."
-   🌸   Always learning, always growing  ~  🌱
-                                   — Long  🐣
-
-  ⛩️ ─────────────────────────────────────────────── 🗻
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║  > "Write code with love, debug with patience."                  ║
+║                                                                  ║
+║  > Always learning. Always building. Always shipping.  _         ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3d1200,30:e8550a,65:f7931e,100:ffd700&height=160&section=footer&text=Thanks+for+visiting!+🌸&fontSize=22&fontColor=fff8f0&fontAlignY=65&animation=fadeIn" />
 
 </div>
