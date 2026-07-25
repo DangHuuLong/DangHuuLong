@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f23,50:1a1a3e,100:0f0f23&height=120&section=header&text=&animation=fadeIn" />
 
-# Đặng Hữu Long &nbsp;·&nbsp; Long Dang
+# Đặng Hữu Long &nbsp;·&nbsp
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=7C9EFF&background=00000000&center=true&vCenter=true&width=650&height=45&lines=Full-Stack+%26+Mobile+Developer;React+·+Flutter+·+NestJS+·+FastAPI;Building+AI-powered+products+%F0%9F%9A%80;Open+to+Internship+%2F+Junior+Dev+roles" />
 
