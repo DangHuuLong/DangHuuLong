@@ -1,194 +1,118 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Đặng Hữu Long</h1>
+<h3 align="center">Full-Stack & Mobile Developer | Backend-focused | Building AI-powered products</h3>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f23,50:1a1a3e,100:0f0f23&height=120&section=header&text=&animation=fadeIn" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0f3460,70:16213e,100:0d1117&height=220&section=header&text=Dang%20Huu%20Long&fontSize=56&fontColor=58a6ff&fontAlign=38&fontAlignY=50&desc=Backend%20Developer%20%C2%B7%20Mobile%20Developer%20%C2%B7%20IT%20Student&descSize=17&descAlignY=65&descAlign=50&descColor=8b949e&animation=fadeIn"/>
+</p>
 
-# Đặng Hữu Long
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=7C9EFF&background=00000000&center=true&vCenter=true&width=650&height=45&lines=Full-Stack+%26+Mobile+Developer;React+·+Flutter+·+NestJS+·+FastAPI;Building+AI-powered+products+%F0%9F%9A%80;Open+to+Internship+%2F+Junior+Dev+roles" />
-
-<br/>
-
-[![Gmail](https://img.shields.io/badge/danghuulong394%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:danghuulong394@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h%E1%BB%AFu-long-%C4%91%E1%BA%B7ng-387226374/)
-[![GitHub](https://img.shields.io/badge/DangHuuLong-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DangHuuLong)
-[![Codeforces](https://img.shields.io/badge/CF_1147★-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Tansinhvienbkk23)
-
-<br/>
-
-![](https://img.shields.io/badge/GPA-3.61%20%2F%204.0-4ADE80?style=flat-square)
-&nbsp;
-![](https://img.shields.io/badge/160--Day%20Streak-F97316?style=flat-square)
-&nbsp;
-![](https://img.shields.io/badge/2%2C159%20Commits-A78BFA?style=flat-square)
-&nbsp;
-![](https://img.shields.io/badge/Available%20for%20Hire-22C55E?style=flat-square)
-
-</div>
-
-<br/>
+<p align="center">
+  <a href="mailto:danghuulong394@gmail.com"><img src="https://img.shields.io/badge/Gmail-danghuulong394-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/h%E1%BB%AFu-long-%C4%91%E1%BA%B7ng-387226374/"><img src="https://img.shields.io/badge/LinkedIn-Hu%CC%9Bu%20Long%20Dang-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://codeforces.com/profile/Tansinhvienbkk23"><img src="https://img.shields.io/badge/Codeforces-Tansinhvienbkk23-1F8ACB?style=flat-square&logo=codeforces&logoColor=white"></a>
+</p>
 
 ---
 
-## 👤 &nbsp;About Me
+### 🧑‍💻 About Me
 
-I'm a **Year 3 IT student** at University of Science & Technology — Da Nang, passionate about building real-world products with clean architecture and great UX.
+```yaml
+name        : Dang Huu Long
+location    : Da Nang, Vietnam 🇻🇳
+university  : University of Science & Technology — University of Danang (DUT)
+major       : Information Technology - Enterprise Cooperation Program (GPA: 3.61 / 4.0)
+year        : 3rd Year (2023 — Present)
 
-Currently interning as a **Mobile App Dev** at Free AI Utilities, where I'm building an AI-powered recruitment system from the ground up — covering CV parsing, JD matching, and explainable scoring with NestJS, FastAPI, and Next.js.
+role        : Backend / Mobile Developer
+languages   : English (TOEIC 825) | Japanese (studying, target JLPT N3)
 
-```
-🎓  UDN · Information Technology · GPA 3.61 / 4.0
-💼  Mobile App Dev Intern @ Free AI Utilities  (Sep 2025 → Present)
-🌱  Deep-diving into: System Design · AI Integration · Backend Architecture
-📍  Da Nang, Vietnam 🇻🇳 · Born 11.12.2005
-💬  "Write code with love, debug with patience."
+currently   :
+  - 💼 1+ year of real-world experience across 2 companies, shipping apps live on the App Store
+  - 🧠 Deepening CS fundamentals (OOP, DSA, System Design) & sharpening algorithmic thinking
+  - 🤖 Exploring AI Agents & automation pipelines beyond prompt-based usage
+  - 🎯 Seeking internship / junior developer opportunities (Backend, Full-Stack, or Mobile)
 ```
 
 ---
 
-## 🚀 &nbsp;Featured Projects
+### 💼 Work Experience
 
-### 🤖 &nbsp;AI Recruitment System &nbsp;`[ACTIVE]` &nbsp;·&nbsp; Apr 2026 – Present
+**Mobile / Backend Developer** — *FreeAIUtilities (mcanswers.ai)* · 1 year
+- Owned backend development and ~50% of the frontend (Flutter) for **[Coin Scanner - Value Identifier](https://apps.apple.com/vn/app/coin-scanner-value-identifier/id6759996404)**, a live iOS app.
+- Stack: Flutter, Node.js, Docker, self-managed VPS deployment. Team of 2.
+- Upcoming: shipping a new Flutter-only app (no backend), inspired by MakerBlox-style skin creator apps.
 
-> AI platform that parses CVs & JDs, evaluates candidate–job fit with explainable scoring
-
-**Stack:** `Next.js` · `NestJS` · `FastAPI` · `PostgreSQL`
-
-[![Frontend](https://img.shields.io/badge/Frontend_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DangHuuLong/Ai-Recruiter-Mini-Frontend)
-[![Backend](https://img.shields.io/badge/Backend_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DangHuuLong/Ai-Recruiter-Mini-Backend)
-[![AI Service](https://img.shields.io/badge/AI_Service_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DangHuuLong/Ai-Recruiter-Mini-Ai-Service)
+**Backend Developer** — *Nexagency* · 3 months
+- Built ~70% of the backend and the internal admin website (shop data, categories, review management) for **[iMaps](https://apps.apple.com/vn/app/imaps/id6786135849)**, a live iOS app. Team of 2.
 
 ---
 
-### 📱 &nbsp;Language Learning App &nbsp;·&nbsp; Jan 2026 – Apr 2026
-
-> Mobile app with Reading · Listening · Speaking · Writing · Flashcards · AI Dictionary
-
-**Stack:** `React Native` · `TypeScript` · `Supabase` · `Gemini AI`
-
-[![App](https://img.shields.io/badge/App_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DangHuuLong/Language-Learning-App)
-[![Backend](https://img.shields.io/badge/Backend_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DangHuuLong/Language-Learning-App-Backend)
-
----
-
-### 🍱 &nbsp;Food Store System &nbsp;·&nbsp; Nov 2025 – Feb 2026
-
-> Multi-role system (Customer · Cashier · Admin) with full auth & image management
-
-**Stack:** `React` · `Node.js` · `MongoDB` · `Redux`
-
-[![Repo](https://img.shields.io/badge/Full_App_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DangHuuLong/Food-Delivery)
-
----
-
-## 🛠 &nbsp;Tech Stack
+### 🛠️ Tech Stack
 
 **Frontend & Mobile**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=54C5F8)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+![](https://skillicons.dev/icons?i=react,nextjs,flutter,dart,ts,js,tailwind,bootstrap,vite&theme=dark)
 
 **Backend**
+![](https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,python,dotnet,java,cpp&theme=dark)
 
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+**Database & ORM**
+![](https://skillicons.dev/icons?i=postgresql,mongodb,mysql,prisma,supabase,firebase&theme=dark)
 
-**Database & Cloud**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-**DevOps & Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+**Tools & DevOps**
+![](https://skillicons.dev/icons?i=git,github,docker,postman,vercel,linux,vscode,figma&theme=dark)
 
 ---
 
-## 📊 &nbsp;GitHub Stats
+### 🚀 Featured Projects
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DangHuuLong&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=7C9EFF&icon_color=F97316&text_color=94a3b8&ring_color=7C9EFF&border_radius=10&include_all_commits=true&rank_icon=github" />
-&nbsp;
-<img height="170" src="https://streak-stats.demolab.com?user=DangHuuLong&theme=transparent&hide_border=true&background=0d1117&stroke=1e293b&ring=7C9EFF&fire=F97316&currStreakLabel=7C9EFF&sideLabels=94a3b8&dates=475569&currStreakNum=e2e8f0&sideNums=e2e8f0&border_radius=10" />
-
-<br/>
-
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DangHuuLong&layout=donut&hide_border=true&bg_color=0d1117&title_color=7C9EFF&text_color=94a3b8&border_radius=10&langs_count=8" />
-
-</div>
+| Project | Description | Stack |
+|---|---|---|
+| [**Ai-Recruiter-Mini**](https://github.com/DangHuuLong/Ai-Recruiter-Mini-Backend) | AI-powered CV screening platform with an explainable multi-criteria scoring engine — frontend, backend, and a standalone AI microservice | Next.js 14 · NestJS · Prisma · PostgreSQL · FastAPI · Python |
+| [**Language-Learning-App**](https://github.com/DangHuuLong/Language-Learning-App) | Interactive language learning app with structured lessons, practice exercises, and progress tracking | TypeScript |
+| [**Language-Learning-App-Backend**](https://github.com/DangHuuLong/Language-Learning-App-Backend) | AI-powered backend with modular APIs for reading, listening, writing, speaking, flashcards, and Supabase-based media storage | TypeScript · Supabase |
+| [**Food-Delivery**](https://github.com/DangHuuLong/Food-Delivery) | Full-stack food delivery platform with ordering, secure auth, admin management, and real-time order tracking | JavaScript |
+| [**Coin Scanner**](https://apps.apple.com/vn/app/coin-scanner-value-identifier/id6759996404) | Live iOS app for coin identification & value lookup — backend + Flutter frontend, Dockerized VPS deployment | Flutter · Node.js · Docker |
+| [**iMaps**](https://apps.apple.com/vn/app/imaps/id6786135849) | Live iOS app with backend + admin dashboard for shop/review management | Backend · Admin Web |
 
 ---
 
-## 🏆 &nbsp;Trophies
+### 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DangHuuLong&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&border_radius=12"/>
+  <img height="165" src="https://streak-stats.demolab.com?user=DangHuuLong&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=f47b00&currStreakLabel=58a6ff&border_radius=12"/>
+</p>
 
-<img width="97%" src="https://github-trophies.vercel.app/?username=DangHuuLong&theme=algolia&no-frame=true&column=7&margin-w=6&margin-h=4" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DangHuuLong&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_radius=12&langs_count=8"/>
+</p>
 
-</div>
-
----
-
-## 📈 &nbsp;Contribution Graph
-
-<div align="center">
-
-<img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=DangHuuLong&bg_color=0d1117&color=7C9EFF&line=F97316&point=e2e8f0&area=true&area_color=1e1b4b&hide_border=true&radius=6" />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DangHuuLong/DangHuuLong/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DangHuuLong/DangHuuLong/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/DangHuuLong/DangHuuLong/output/github-contribution-grid-snake-dark.svg" width="97%" />
-</picture>
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DangHuuLong&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8"/>
+</p>
 
 ---
 
-## 🎓 &nbsp;Education & Competitive Programming
+### 🎓 Education & Competitive Programming
 
 | | |
 |---|---|
-| 🏛️ **University** | University of Science & Technology — UDN |
-| 📚 **Degree** | B.Sc. Information Technology (Year 3, 2023 – Present) |
-| 🏅 **GPA** | **3.61 / 4.0** — Distinction |
-| 💼 **Experience** | Mobile App Dev Intern @ Free AI Utilities (Sep 2025 → Present) |
-| ⚔️ **Codeforces** | [Tansinhvienbkk23](https://codeforces.com/profile/Tansinhvienbkk23) · Peak Rating **1147★** |
+| 🏫 | **University of Science & Technology — University of Danang** |
+| 📚 | B.S. in Information Technology — Enterprise Cooperation Program |
+| 📅 | 2023 — Present |
+| 📈 | GPA: **3.61 / 4.0** |
+| 🏅 | Codeforces: [`Tansinhvienbkk23`](https://codeforces.com/profile/Tansinhvienbkk23) — Rating **1147** |
 
 ---
 
-<div align="center">
+### 🤝 Let's Connect
 
-### Let's connect and build something great together 🤝
+<p align="center">
+  <a href="mailto:danghuulong394@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/DangHuuLong"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/h%E1%BB%AFu-long-%C4%91%E1%BA%B7ng-387226374/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://codeforces.com/profile/Tansinhvienbkk23"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"></a>
+</p>
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danghuulong394@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h%E1%BB%AFu-long-%C4%91%E1%BA%B7ng-387226374/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DangHuuLong)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/anghuulong.2024)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Tansinhvienbkk23)
+<p align="center"><i>"First, solve the problem. Then, write the code." — John Johnson</i></p>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=DangHuuLong&label=Profile+Views&color=7C9EFF&style=flat-square" />
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f23,50:1a1a3e,100:0f0f23&height=100&section=footer" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0f3460,70:16213e,100:0d1117&height=100&section=footer"/>
