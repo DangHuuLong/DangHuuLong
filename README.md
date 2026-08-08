@@ -47,6 +47,8 @@ I enjoy building products end-to-end — from designing APIs and system architec
 - Developed an internal **Admin Dashboard** and managed shop, category, and review systems
 - Contributed to the production app: [**iMaps**](https://apps.apple.com/vn/app/imaps/id6786135849)
 
+`Node.js` `Admin Dashboard` `Backend`
+
 <br/>
 
 ## 🚀 Featured Projects
@@ -85,7 +87,7 @@ I enjoy building products end-to-end — from designing APIs and system architec
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=DangHuuLong&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DangHuuLong&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DangHuuLong&theme=redical&hide_border=true&bg_color=0d1117&color=a78bfa&line=c9b3ff&point=ffffff"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DangHuuLong&theme=radical&hide_border=true&bg_color=0d1117&color=a78bfa&line=c9b3ff&point=ffffff"/>
 
 </div>
 
