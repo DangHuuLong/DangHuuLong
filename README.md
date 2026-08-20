@@ -1,136 +1,124 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:F5F5F5,100:E8E8E8&height=4&section=header"/>
-
-<br>
-
-<table width="100%">
-<tr>
-<td width="65%" valign="top">
-
-# Dang Huu Long
-### Backend-leaning Full-Stack & Mobile Developer
-
-Building products end-to-end — API design, system architecture, and polishing the Flutter app on top. Currently going deeper on **AI agents & automation** as the newest piece of the stack.
-
-<br>
-
-`Backend Systems` `System Design` `Flutter` `Docker` `AI Agents`
-
-</td>
-<td width="35%" valign="top">
-
-<table>
-<tr><td>📍</td><td>Da Nang, Vietnam</td></tr>
-<tr><td>🎓</td><td>DUT · GPA 3.61/4.0</td></tr>
-<tr><td>🗣️</td><td>TOEIC 825 · JLPT N3 (goal)</td></tr>
-<tr><td>🏅</td><td>Codeforces 1147</td></tr>
-<tr><td>✉️</td><td><a href="mailto:danghuulong394@gmail.com">Email</a></td></tr>
-<tr><td>🔗</td><td><a href="https://www.linkedin.com/in/h%E1%BB%AFu-long-%C4%91%E1%BA%B7ng-387226374/">LinkedIn</a> · <a href="https://github.com/DangHuuLong">GitHub</a></td></tr>
-</table>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## Experience
-
-<table width="100%">
-<tr>
-<td width="18%" valign="top"><sub>~1 YEAR</sub></td>
-<td>
-<b>Mobile & Backend Developer</b> · FreeAIUtilities (mcanswers.ai)<br>
-<sub>Node.js backend · ~50% of the Flutter frontend · Dockerized deployment on a VPS · shipped iOS app <i>Coin Scanner</i></sub>
-</td>
-</tr>
-<tr><td colspan="2"><br></td></tr>
-<tr>
-<td width="18%" valign="top"><sub>3 MONTHS</sub></td>
-<td>
-<b>Backend Developer</b> · Nexagency<br>
-<sub>~70% of the system's backend · internal Admin Dashboard (shop, category, review) · contributed to production app <i>iMaps</i></sub>
-</td>
-</tr>
-</table>
-
-<br>
-
-## Projects
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-
-**AI Recruiter Mini**
-<sub>AI recruiting platform — CV analysis, explainable scoring, AI microservice</sub>
-
-</td>
-<td width="33%" valign="top">
-
-**Language Learning App**
-<sub>Interactive language app with progress tracking</sub>
-
-</td>
-<td width="33%" valign="top">
-
-**Language Learning Backend**
-<sub>AI APIs for Reading / Speaking / Listening / Writing</sub>
-
-</td>
-</tr>
-<tr><td colspan="3"><br></td></tr>
-<tr>
-<td width="33%" valign="top">
-
-**Food Delivery**
-<sub>Full-stack food ordering & delivery platform</sub>
-
-</td>
-<td width="33%" valign="top">
-
-**Coin Scanner**
-<sub>Production iOS app for coin recognition & valuation</sub>
-
-</td>
-<td width="33%" valign="top">
-
-**iMaps**
-<sub>Backend & admin dashboard for managing locations</sub>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## Stack
-
-<table width="100%">
-<tr>
-<td width="25%"><b>Frontend</b><br><sub>React · Next.js · Flutter · Dart · TypeScript · Tailwind</sub></td>
-<td width="25%"><b>Backend</b><br><sub>Node.js · NestJS · Express · FastAPI · Python · .NET · Java · C++</sub></td>
-<td width="25%"><b>Database</b><br><sub>PostgreSQL · MongoDB · MySQL · Prisma · Supabase · Firebase</sub></td>
-<td width="25%"><b>DevOps</b><br><sub>Docker · Git · Linux · Postman · Vercel · Figma</sub></td>
-</tr>
-</table>
-
-<br>
-
-## GitHub
-
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=DangHuuLong&show_icons=true&theme=graywhite&hide_border=true&hide_title=true"/>
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DangHuuLong&layout=compact&theme=graywhite&hide_border=true&hide_title=true"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:1a1a3e,50:2d1b4e,75:3d2463,100:0d1117&height=260&section=header&text=Dang%20Huu%20Long&fontSize=58&fontColor=ffffff&fontAlignY=35&desc=Backend%20%7C%20Full-Stack%20%7C%20Mobile%20Developer&descSize=20&descColor=c9b3ff&animation=fadeIn"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+scalable+backend+systems;Shipping+Flutter+apps+end-to-end;Exploring+AI+agents+%26+automation" alt="Typing SVG" />
+
+<br/>
+
+<a href="mailto:danghuulong394@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/h%E1%BB%AFu-long-%C4%91%E1%BA%B7ng-387226374/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/DangHuuLong"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://codeforces.com/profile/Tansinhvienbkk23"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
 
 </div>
 
-<br>
+<br/>
+
+## 👋 About Me
+
+I'm a backend-leaning full-stack developer based in **Da Nang, Vietnam** 🇻🇳, currently studying **Information Technology** (Enterprise Cooperation Program) at the **University of Science & Technology – The University of Danang (DUT)**, GPA **3.61/4.0**.
+
+I enjoy building products end-to-end — from designing APIs and system architecture to shipping polished Flutter apps — and I'm increasingly focused on **AI agents and automation** as part of that stack.
+
+```yaml
+🌍 Location:    Da Nang, Vietnam
+🎓 Education:   B.Eng. Information Technology, DUT (GPA 3.61/4.0)
+🗣️ Languages:   English (TOEIC 825) · Japanese (targeting JLPT N3)
+🎯 Focus:       Backend Development · System Design · Flutter
+                Cloud & Docker · AI Agents & Automation
+```
+
+<br/>
+
+## 💼 Experience
+
+### 🚀 Mobile & Backend Developer — FreeAIUtilities (mcanswers.ai)
+**~1 year**
+- Developed backend services in **Node.js** and implemented roughly **50%** of the Flutter frontend
+- Containerized and deployed applications with **Docker** on a **VPS**
+- Shipped a production iOS app: [**Coin Scanner – Value Identifier**](https://apps.apple.com/vn/app/coin-scanner-value-identifier/id6759996404)
+
+`Flutter` `Node.js` `Docker` `VPS`
+
+### 🚀 Backend Developer — Nexagency
+**3 months**
+- Built approximately **70%** of the backend
+- Developed an internal **Admin Dashboard** and managed shop, category, and review systems
+- Contributed to the production app: [**iMaps**](https://apps.apple.com/vn/app/imaps/id6786135849)
+
+<br/>
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|---|---|
+| **AI Recruiter Mini** | AI-powered recruitment platform with CV analysis, an explainable scoring engine, and an AI microservice |
+| **Language Learning App** | Interactive language-learning app with exercises and progress tracking |
+| **Language Learning Backend** | AI backend exposing Reading, Speaking, Listening, and Writing APIs |
+| **Food Delivery** | Full-stack food ordering & delivery platform |
+| **Coin Scanner** | Production iOS app for coin recognition and pricing |
+| **iMaps** | Backend & admin dashboard for location management |
+
+<br/>
+
+## 🛠 Tech Stack
+
+**Frontend & Mobile**
+![](https://skillicons.dev/icons?i=react,nextjs,flutter,dart,ts,js,tailwind,vite,bootstrap)
+
+**Backend**
+![](https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,python,dotnet,java,cpp)
+
+**Database**
+![](https://skillicons.dev/icons?i=postgresql,mongodb,mysql,prisma,supabase,firebase)
+
+**DevOps & Tools**
+![](https://skillicons.dev/icons?i=docker,git,github,linux,postman,vercel,vscode,figma)
+
+<br/>
+
+## 📊 GitHub Stats
 
 <div align="center">
-<sub><i>"Talk is cheap. Show me the code." — Linus Torvalds</i></sub>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=DangHuuLong&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DangHuuLong&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DangHuuLong&theme=redical&hide_border=true&bg_color=0d1117&color=a78bfa&line=c9b3ff&point=ffffff"/>
+
 </div>
 
-<br>
+<br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:E8E8E8,100:F5F5F5&height=4&section=footer"/>
+## 🎓 Education & Achievements
+
+| | |
+|---|---|
+| 🎓 | University of Science & Technology — The University of Danang (DUT) |
+| 📚 | B.Eng. in Information Technology (Enterprise Cooperation Program) |
+| 📈 | GPA **3.61 / 4.0** |
+| 🏆 | TOEIC **825** |
+| 💻 | Codeforces rating **1147** |
+
+<br/>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="mailto:danghuulong394@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/DangHuuLong"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/h%E1%BB%AFu-long-%C4%91%E1%BA%B7ng-387226374/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://codeforces.com/profile/Tansinhvienbkk23"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+
+</div>
+
+<br/>
+
+<div align="center">
+<i>"Talk is cheap. Show me the code."</i><br/>
+<b>— Linus Torvalds</b>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:1a1a3e,50:2d1b4e,75:3d2463,100:0d1117&height=120&section=footer"/>
