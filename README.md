@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:1a1a3e,50:2d1b4e,75:3d2463,100:0d1117&height=260&section=header&text=Dang%20Huu%20Long&fontSize=58&fontColor=ffffff&fontAlignY=35&desc=Backend%20%7C%20Full-Stack%20%7C%20Mobile%20Developer&descSize=20&descColor=c9b3ff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:0f2942,50:12405c,75:1a6b8c,100:0d1117&height=260&section=header&text=Dang%20Huu%20Long&fontSize=58&fontColor=ffffff&fontAlignY=35&desc=Backend%20%7C%20Full-Stack%20%7C%20Mobile%20Developer&descSize=20&descColor=7dd3fc&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+scalable+backend+systems;Shipping+Flutter+apps+end-to-end;Exploring+AI+agents+%26+automation" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+scalable+backend+systems;Shipping+Flutter+apps+end-to-end;Exploring+AI+agents+%26+automation" alt="Typing SVG" />
 
 <br/>
 
@@ -82,10 +82,10 @@ I enjoy building products end-to-end — from designing APIs and system architec
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DangHuuLong&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DangHuuLong&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=DangHuuLong&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DangHuuLong&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DangHuuLong&theme=redical&hide_border=true&bg_color=0d1117&color=a78bfa&line=c9b3ff&point=ffffff"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DangHuuLong&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38bdf8&line=7dd3fc&point=ffffff"/>
 
 </div>
 
@@ -121,4 +121,4 @@ I enjoy building products end-to-end — from designing APIs and system architec
 <b>— Linus Torvalds</b>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:1a1a3e,50:2d1b4e,75:3d2463,100:0d1117&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:0f2942,50:12405c,75:1a6b8c,100:0d1117&height=120&section=footer"/>
