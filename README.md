@@ -15,7 +15,7 @@
 
 <br/>
 
-## 👋 About Meeeeeeeee
+## 👋 About Me
 
 I'm a backend-leaning full-stack developer based in **Da Nang, Vietnam** 🇻🇳, currently studying **Information Technology** (Enterprise Cooperation Program) at the **University of Science & Technology – The University of Danang (DUT)**, GPA **3.61/4.0**.
 
