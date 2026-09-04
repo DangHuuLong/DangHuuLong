@@ -31,7 +31,7 @@
 
 <br/>
 
-## 🪐 About Me
+## 🪐 About Meeeeeeee
 
 I'm a backend-leaning full-stack developer building products end-to-end — from API design and system architecture to polished Flutter apps — with a growing focus on **AI agents & automation**.
 
