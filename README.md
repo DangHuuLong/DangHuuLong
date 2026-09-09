@@ -45,7 +45,7 @@ focus:     [Backend, System Design, Flutter, Docker, AI Agents]
 
 <br/>
 
-## 💼 Experienc
+## 💼 Experience
 
 <table>
 <tr>
