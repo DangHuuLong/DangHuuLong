@@ -38,7 +38,7 @@ I'm a backend-leaning full-stack developer building products end-to-end — from
 ```yaml
 role:      Backend & Mobile Developer
 location:  Da Nang, Vietnam 🇻🇳
-education: B.Eng. Information Technology (Enterprise Cooperation), DUT — GPA 3.61/4.0
+education: B.Eng. Information Technology (Enterprise Cooperation), DUT — GPA 3.66/4.0
 languages: English (TOEIC 825
 focus:     [Backend, System Design, Flutter, Docker, AI Agents]
 ```
