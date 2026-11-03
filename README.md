@@ -180,7 +180,7 @@ Backend & admin dashboard for location management
 
 | 🎓 University | 📚 Program | 📈 GPA | 🏆 TOEIC | 💻 Codeforces |
 |:---:|:---:|:---:|:---:|:---:|
-| DUT — Danang | IT (Enterprise Cooperation) | **3.61 / 4.0** | **825** | **1147** |
+| DUT — Danang | IT (Enterprise Cooperation) | **3.66 / 4.0** | **825** | **1147** |
 
 </div>
 
